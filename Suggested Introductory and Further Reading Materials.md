@@ -2,7 +2,7 @@
 
 1. The Impact of Quantum Computing on Society https://www.digicert.com/blog/the-impact-of-quantum-computing-on-society
 2. The Australian Cyber Security Centre's "Planning for Post-Quantum Cryptography" guidance https://www.cyber.gov.au/resources-business-and-government/governance-and-user-education/governance/planning-post-quantum-cryptography
-3. WEF's "Why it's time to get you rboard to take the quantum threat seriously" https://www.weforum.org/agenda/2023/04/how-to-get-your-board-to-take-the-quantum-threat-seriously/
+3. WEF's "Why it's time to get your board to take the quantum threat seriously" https://www.weforum.org/agenda/2023/04/how-to-get-your-board-to-take-the-quantum-threat-seriously/
 4. KPMG's article "What is the cyber security risk from Quantum Computing?" https://kpmg.com/au/en/home/insights/2024/04/cyber-security-risk-from-quantum-computing.html
 5. IBM's "Security in the Quantum Computing Era" https://www.ibm.com/downloads/cas/EZEGKEB5
 6. Red Hot Cyber interviews Professor Andrea Morello (ARC Centre of Excellence for Quantum Computing, UNSW) https://www.redhotcyber.com/en/post/rhc-interviews-professor-andrea-morello/
