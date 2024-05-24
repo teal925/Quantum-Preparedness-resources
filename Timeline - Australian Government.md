@@ -14,3 +14,5 @@
 
 ## 2024
 9. Australia, as part of the Multilateral Dialogue on Quantum (MDQ), helps create (October 2023) and publish (February 2024) the Guiding Principles for a global quantum ecosystem informed by science https://www.industry.gov.au/publications/guiding-principles-global-quantum-ecosystem-informed-science , https://www.quantumwithoutborders.org/multilateral-dialogue-on-quantum
+10. The Australian Federal Government and Queensland State Government announce that they will invest almost $1 billion into technology company PsiQuantum to build a utility-scale fault tolerant quantum computer (FTQC) in Australia https://www.industry.gov.au/news/leading-quantum-company-chooses-australia-site-its-groundbreaking-utility-scale-quantum-computer, https://budget.gov.au/content/03-future-made.htm#m4
+11. The $36 million AUD Critical Technologies Challenge Program (CTCP) grant is announced and applications opened, with 4 challenges to be addressed with future quantum technologies to be addressed. https://www.industry.gov.au/news/critical-tech-funding-solve-some-australias-most-significant-challenges
