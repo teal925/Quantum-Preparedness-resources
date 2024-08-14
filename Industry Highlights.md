@@ -11,3 +11,4 @@
 11. United Nations (UN) declares that 2025 will be the *International Year of Quantum Science and Technology* (2024) https://quantum2025.org/en/, https://ia.acs.org.au/article/2024/un-declares-2025--international-year-of-quantum-.html
 12. New book and STEM clubs for girls across Australia herald quantum leap (2024) https://www.uwa.edu.au/news/article/2024/june/new-book-and-stem-clubs-for-girls-herald-quantum-education-leap
 13. Quantum computing firm PsiQuantum is partnering with the state of Illinois to build the largest US-based quantum computing facility (2024) https://www.technologyreview.com/2024/07/25/1095287/psiquantum-plans-to-build-the-biggest-quantum-computing-facility-in-the-us/
+**14. NIST releases first 3 finalised post-quantum encryption standards** (August, 2024) https://www.nist.gov/news-events/news/2024/08/nist-releases-first-3-finalized-post-quantum-encryption-standards
