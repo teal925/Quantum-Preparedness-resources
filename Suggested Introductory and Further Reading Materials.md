@@ -8,6 +8,9 @@
 6. Red Hot Cyber interviews Professor Andrea Morello (ARC Centre of Excellence for Quantum Computing, UNSW) https://www.redhotcyber.com/en/post/rhc-interviews-professor-andrea-morello/
 7. What is the "steal now, crack later" quantum computing threat? https://www.itpro.com/security/cyber-security/370298/what-is-steal-now-crack-later-quantum-computing
 
+## Intermediate material:
+1. IBM's video "Understanding the NIST Standards and IBM's contributions to post-quantum cryptography" https://www.youtube.com/watch?v=HCOj9CSE050
+
 ## For the more technical reader:
 1. Improving tomorrow’s security by decoding the quantum computing threat https://assets.ey.com/content/dam/ey-sites/ey-com/en_au/topics/cybersecurity/ey-quantum-threat-whitepaper-by-jpmc-and-ey.pdf
 2. Why organisations should prepare for quantum computing cybersecurity now https://www.ey.com/en_au/innovation/why-organizations-should-prepare-for-quantum-computing-cybersecurity-now
