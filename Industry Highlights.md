@@ -3,7 +3,8 @@
 
 ## 2024
 * Researchers propose a way to make a smaller and more noise-tolerant quantum factoring circuit for cryptography, building on Shor's algorithm (August, 2024)
-  * https://news.mit.edu/2024/toward-code-breaking-quantum-computer-0823 MIT News (2024) Toward a code-breaking quantum computer 
+  * https://news.mit.edu/2024/toward-code-breaking-quantum-computer-0823 MIT News (2024) Toward a code-breaking quantum computer
+  * https://www.redhotcyber.com/en/post/cryptography-at-risk-mit-develops-a-quantum-algorithm-to-crack-rsa/
   * https://arxiv.org/pdf/2308.06572 Supporting paper 1: Regev, O. (January 2024) An efficient quantum factoring algorithm 
   * https://eprint.iacr.org/2023/1501.pdf Supporting paper 2: Ragavan, S. & Vaikuntanathan, V. (June 2024) Space-Efficient and Noise-Robust Quantum Factoring 
 * **NIST releases first 3 finalised post-quantum encryption standards (August, 2024)**
