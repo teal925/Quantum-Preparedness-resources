@@ -2,6 +2,10 @@
 ### Please note, highlights are listed from Most to Least recent (i.e. new updates are at the top) and contain at a minimum 1 reference.
 
 ## 2024
+* Microsoft begins to update SymCrypt, its core cryptograhic library, with quantum-resistant cryptographic algorithms (September 2024)
+  * https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-s-quantum-resistant-cryptography-is-here/ba-p/4238780
+  * https://arstechnica.com/security/2024/09/microsoft-adds-quantum-resistant-algorithms-to-its-core-crypto-library/
+  * https://www.schneier.com/blog/archives/2024/09/microsoft-is-adding-new-cryptography-algorithms.html
 * Researchers propose a way to make a smaller and more noise-tolerant quantum factoring circuit for cryptography, building on Shor's algorithm (August, 2024)
   * https://news.mit.edu/2024/toward-code-breaking-quantum-computer-0823 MIT News (2024) Toward a code-breaking quantum computer
   * https://www.redhotcyber.com/en/post/cryptography-at-risk-mit-develops-a-quantum-algorithm-to-crack-rsa/
