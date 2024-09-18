@@ -2,6 +2,9 @@
 ### Please note, highlights are listed from Most to Least recent (i.e. new updates are at the top) and contain at a minimum 1 reference.
 
 ## 2024
+* Google Chrome swaps out Kyber to support standardised Module Lattice Key Encapsulation Mechanism (ML-KEM) in Chrome 131 (September 2024)
+  * https://security.googleblog.com/2024/09/a-new-path-for-kyber-on-web.html
+  * https://thehackernews.com/2024/09/google-chrome-switches-to-ml-kem-for.html
 * Microsoft begins to update SymCrypt, its core cryptographic library, with quantum-resistant cryptographic algorithms (September 2024)
   * https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-s-quantum-resistant-cryptography-is-here/ba-p/4238780
   * https://arstechnica.com/security/2024/09/microsoft-adds-quantum-resistant-algorithms-to-its-core-crypto-library/
