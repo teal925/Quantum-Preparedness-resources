@@ -2,6 +2,9 @@
 ### Please note, highlights are listed from Most to Least recent (i.e. new updates are at the top) and contain at a minimum 1 reference.
 
 ## 2024
+* Australian-German firm Quantum Brilliance to build world's first mobile quantum computer for German government (September, 2024)
+  * https://ia.acs.org.au/article/2024/australian-firm-to-build-world-s-first-mobile-quantum-computer.html
+  * https://quantumbrilliance.com/press-release/germany-awards-contract-to-quantum-brilliance-and-parityqc 
 * Google Chrome swaps out Kyber to support standardised Module Lattice Key Encapsulation Mechanism (ML-KEM) in Chrome 131 (September 2024)
   * https://security.googleblog.com/2024/09/a-new-path-for-kyber-on-web.html
   * https://thehackernews.com/2024/09/google-chrome-switches-to-ml-kem-for.html
