@@ -15,4 +15,5 @@
 1. Improving tomorrow’s security by decoding the quantum computing threat https://assets.ey.com/content/dam/ey-sites/ey-com/en_au/topics/cybersecurity/ey-quantum-threat-whitepaper-by-jpmc-and-ey.pdf
 2. Why organisations should prepare for quantum computing cybersecurity now https://www.ey.com/en_au/innovation/why-organizations-should-prepare-for-quantum-computing-cybersecurity-now
 3. IBM's "The Quantum Decade: A playbook for achieving awareness, readiness, and advantage" 4th. edition (2023) https://www.ibm.com/downloads/cas/J25G35OK
-4. Q-CTRL's Learning Centre videos on the basic fundamental physics principles behind quantum computers (https://q-ctrl.com/learning-center) ranging from beginner foundations (https://q-ctrl.com/learning-center/beginner-foundations) to more advanced topics (https://q-ctrl.com/learning-center/advanced-topics) 
+4. Q-CTRL's Learning Centre videos on the basic fundamental physics principles behind quantum computers (https://q-ctrl.com/learning-center) ranging from beginner foundations (https://q-ctrl.com/learning-center/beginner-foundations) to more advanced topics (https://q-ctrl.com/learning-center/advanced-topics)
+5. Karagiannis, K. (2024) The Hacker's Guide to PQC. DefCon 32 Quantum Village presentation (42 mins) https://www.youtube.com/watch?v=l2G38ECvJF8
