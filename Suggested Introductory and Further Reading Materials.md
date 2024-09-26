@@ -10,6 +10,7 @@
 
 ## Intermediate material:
 1. IBM's video "Understanding the NIST Standards and IBM's contributions to post-quantum cryptography" https://www.youtube.com/watch?v=HCOj9CSE050
+2. Paul Barker's CIO article "It's time for CIOs to think about post quantum cryptography" https://www.cio.com/article/3526658/its-time-for-cios-to-think-about-post-quantum-cryptography.html
 
 ## For the more technical reader:
 1. Improving tomorrow’s security by decoding the quantum computing threat https://assets.ey.com/content/dam/ey-sites/ey-com/en_au/topics/cybersecurity/ey-quantum-threat-whitepaper-by-jpmc-and-ey.pdf
