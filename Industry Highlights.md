@@ -2,6 +2,9 @@
 ### Please note, highlights are listed from Most to Least recent (i.e. new updates are at the top) and contain at a minimum 1 reference.
 
 ## 2024
+* European Union signs contract to acquire LUMI-Q consortium quantum computer to be established in the Czech Republic (September, 2024)
+  * https://www.lumi-supercomputer.eu/europe-takes-a-quantum-leap-lumi-q-consortium-signs-contract/
+  * https://eurohpc-ju.europa.eu/advancing-european-quantum-computing-signature-procurement-contract-eurohpc-quantum-computer-located-2024-09-26_en
 * Australian-German firm Quantum Brilliance to build world's first mobile quantum computer for German government (September, 2024)
   * https://ia.acs.org.au/article/2024/australian-firm-to-build-world-s-first-mobile-quantum-computer.html
   * https://quantumbrilliance.com/press-release/germany-awards-contract-to-quantum-brilliance-and-parityqc 
