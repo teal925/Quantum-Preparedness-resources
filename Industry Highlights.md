@@ -27,7 +27,8 @@
 * New book and STEM clubs for girls across Australia herald quantum leap (2024)
   * https://www.uwa.edu.au/news/article/2024/june/new-book-and-stem-clubs-for-girls-herald-quantum-education-leap
 * United Nations (UN) declares that 2025 will be the *International Year of Quantum Science and Technology* (2024)
-  * https://quantum2025.org/en/, https://ia.acs.org.au/article/2024/un-declares-2025--international-year-of-quantum-.html
+  * https://quantum2025.org/en/
+  * https://ia.acs.org.au/article/2024/un-declares-2025--international-year-of-quantum-.html
 * Post-Quantum Cryptography focussed on as a key topic of RSA 2024 (2024)
   * https://thequantuminsider.com/2024/05/15/ready-for-q-day-post-quantum-cryptography-at-rsa-2024/
 * Delinea announces quantum-safe encryption to secure privileged accounts (2024)
