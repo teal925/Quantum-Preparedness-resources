@@ -3,6 +3,8 @@ A collection of introductory and intermediate material to help the wider communi
 
 Initially collated as additional material to support a cyber security conference presentation, I aim to update this repo regularly as the technology and governance landscape changes.
 
+Please feel free to submit a pull request if you have a suggestion for any news or educational materials that I have missed! I would love for this to become a more collaborative repo.
+
 **Best of luck on your quantum awareness and preparedness journey and happy reading!**
 
 ~ TL (teal925)
