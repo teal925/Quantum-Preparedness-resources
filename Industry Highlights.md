@@ -20,6 +20,8 @@
   * https://www.redhotcyber.com/en/post/cryptography-at-risk-mit-develops-a-quantum-algorithm-to-crack-rsa/
   * https://arxiv.org/pdf/2308.06572 Supporting paper 1: Regev, O. (January 2024) An efficient quantum factoring algorithm 
   * https://eprint.iacr.org/2023/1501.pdf Supporting paper 2: Ragavan, S. & Vaikuntanathan, V. (June 2024) Space-Efficient and Noise-Robust Quantum Factoring 
+* CISA releases their "Strategy for Migrating to Automated Post-Quantum Cryptography Discovery and Inventory Tools" (August, 2024)
+  * https://www.cisa.gov/sites/default/files/2024-09/Strategy-for-Migrating-to-Automated-PQC-Discovery-and-Inventory-Tools.pdf
 * **NIST releases first 3 finalised post-quantum encryption standards (August, 2024)**
   * https://www.nist.gov/news-events/news/2024/08/nist-releases-first-3-finalized-post-quantum-encryption-standards
 * Quantum computing firm PsiQuantum is partnering with the state of Illinois to build the largest US-based quantum computing facility (2024)
