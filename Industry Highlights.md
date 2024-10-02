@@ -2,6 +2,9 @@
 ### Please note, highlights are listed from Most to Least recent (i.e. new updates are at the top) and contain at a minimum 1 reference.
 
 ## 2024
+* IBM Quantum Data Center opens in Europe (Germany), the first outside of the US and the second in the world (October, 2024)
+  * https://www.ibm.com/quantum/blog/europe-quantum-datacenter-launch
+  * https://www.aap.com.au/aapreleases/cision20241001ae19715/
 * European Union signs contract to acquire LUMI-Q consortium quantum computer to be established in the Czech Republic (September, 2024)
   * https://www.lumi-supercomputer.eu/europe-takes-a-quantum-leap-lumi-q-consortium-signs-contract/
   * https://eurohpc-ju.europa.eu/advancing-european-quantum-computing-signature-procurement-contract-eurohpc-quantum-computer-located-2024-09-26_en
