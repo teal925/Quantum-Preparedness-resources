@@ -2,7 +2,7 @@
 ### Please note, highlights are listed from Most to Least recent (i.e. new updates are at the top) and contain at a minimum 1 reference.
 
 ## 2024
-* UNSW quantum engineers demonstrate world-first quantum entanglement of two electrons inside a silicon quantum computer chip (October, 2024)
+* UNSW (Australia) quantum engineers demonstrate world-first quantum entanglement of two electrons inside a silicon quantum computer chip (October, 2024)
   * https://www.unsw.edu.au/newsroom/news/2024/10/quantum-computing-experts-conquer-entanglement-challenge
 * IBM Quantum Data Center opens in Europe (Germany), the first outside of the US and the second in the world (October, 2024)
   * https://www.ibm.com/quantum/blog/europe-quantum-datacenter-launch
