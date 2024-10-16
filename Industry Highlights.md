@@ -2,6 +2,9 @@
 ### Please note, highlights are listed from Most to Least recent (i.e. new updates are at the top) and contain at a minimum 1 reference.
 
 ## 2024
+* Silicon Quantum Computing (SQC)'s Michelle Simmons speaks at SXSW Sydney, announcing that SQC is ramping up their ability to manufacture their chips, and can have a turnaround of 2 weeks within Australia, after 5 months of silence following the PsiQuantum investment by Aus Government.
+  * https://www.capitalbrief.com/article/simmons-makes-the-case-for-sqc-winning-the-quantum-race-at-sxsw-sydney-4b39e19b-0e8e-408d-81b8-685179f016bb/preview/
+  * https://www.capitalbrief.com/newsletter/solace-for-quantum-00662b58-5a32-4b72-861d-25d8c74fa0cd/preview/
 * UNSW (Australia) quantum engineers demonstrate world-first quantum entanglement of two electrons inside a silicon quantum computer chip (October, 2024)
   * https://www.unsw.edu.au/newsroom/news/2024/10/quantum-computing-experts-conquer-entanglement-challenge
 * IBM Quantum Data Center opens in Europe (Germany), the first outside of the US and the second in the world (October, 2024)
