@@ -2,7 +2,7 @@
 ### Please note, highlights are listed from Most to Least recent (i.e. new updates are at the top) and contain at a minimum 1 reference.
 
 ## 2024
-* Chinese researchers demonstrate efficient factorisation of a 22-bit RSA integer, showing potential to break RSA encryption. NB. Current RSA key length standards specify 2048 bits for security. (May, 2024)
+* Chinese researchers demonstrate efficient factorisation of a 22-bit RSA integer with a D-Wave Advantage quantum computer, showing potential to break RSA encryption. NB. Current RSA key length standards specify 2048 bits for security. (May, 2024)
   * https://www.csoonline.com/article/3562701/chinese-researchers-break-rsa-encryption-with-a-quantum-computer.html (October, 2024)
   * http://cjc.ict.ac.cn/online/onlinepaper/wc-202458160402.pdf (May, 2024)
   * https://www.cyber.gov.au/resources-business-and-government/essential-cyber-security/ism/cyber-security-guidelines/guidelines-cryptography (September, 2024)
