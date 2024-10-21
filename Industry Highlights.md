@@ -2,6 +2,10 @@
 ### Please note, highlights are listed from Most to Least recent (i.e. new updates are at the top) and contain at a minimum 1 reference.
 
 ## 2024
+* Chinese researchers demonstrate efficient factorisation of a 22-bit RSA integer, showing potential to break RSA encryption. NB. Current RSA key length standards specify 2048 bits for security.
+  * https://www.csoonline.com/article/3562701/chinese-researchers-break-rsa-encryption-with-a-quantum-computer.html
+  * http://cjc.ict.ac.cn/online/onlinepaper/wc-202458160402.pdf
+  * https://www.cyber.gov.au/resources-business-and-government/essential-cyber-security/ism/cyber-security-guidelines/guidelines-cryptography
 * Silicon Quantum Computing (SQC)'s Michelle Simmons speaks at SXSW Sydney, announcing that SQC is ramping up their ability to manufacture their chips, and can have a turnaround of 2 weeks within Australia, after 5 months of silence following the PsiQuantum investment by Aus Government.
   * https://www.capitalbrief.com/article/simmons-makes-the-case-for-sqc-winning-the-quantum-race-at-sxsw-sydney-4b39e19b-0e8e-408d-81b8-685179f016bb/preview/
   * https://www.capitalbrief.com/newsletter/solace-for-quantum-00662b58-5a32-4b72-861d-25d8c74fa0cd/preview/
