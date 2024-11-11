@@ -7,6 +7,7 @@
 5. IBM's "Security in the Quantum Computing Era" https://www.ibm.com/downloads/cas/EZEGKEB5
 6. Red Hot Cyber interviews Professor Andrea Morello (ARC Centre of Excellence for Quantum Computing, UNSW) https://www.redhotcyber.com/en/post/rhc-interviews-professor-andrea-morello/
 7. What is the "steal now, crack later" quantum computing threat? https://www.itpro.com/security/cyber-security/370298/what-is-steal-now-crack-later-quantum-computing
+8. Post-Quantum Government Initiatives by Country and Region https://www.gsma.com/newsroom/post-quantum-government-initiatives-by-country-and-region/
 
 ## Intermediate material:
 1. IBM's video "Understanding the NIST Standards and IBM's contributions to post-quantum cryptography" https://www.youtube.com/watch?v=HCOj9CSE050
