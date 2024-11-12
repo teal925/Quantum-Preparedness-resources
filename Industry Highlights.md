@@ -2,6 +2,8 @@
 ### Please note, highlights are listed from Most to Least recent (i.e. new updates are at the top) and contain at a minimum 1 reference.
 
 ## 2024
+* AWS (Amazon Web Services) releases a security blog "Customer compliance and security during the post-quantum cryptographic migration"
+  * https://aws.amazon.com/blogs/security/customer-compliance-and-security-during-the-post-quantum-cryptographic-migration/ (October, 2024)
 * Chinese researchers demonstrate efficient factorisation of a 22-bit RSA integer with a D-Wave Advantage quantum computer, showing potential to break RSA encryption. NB. Current RSA key length standards specify 2048 bits for security. (May, 2024)
   * https://www.csoonline.com/article/3562701/chinese-researchers-break-rsa-encryption-with-a-quantum-computer.html (October, 2024)
   * http://cjc.ict.ac.cn/online/onlinepaper/wc-202458160402.pdf (May, 2024)
@@ -65,3 +67,5 @@
 * Pawsey Supercomputing Centre Installs First Room-Temperature On-Premises Quantum Computer in a Supercomputing Centre (2022) https://pawsey.org.au/pawsey-installs-first-room-temperature-on-premises-quantum-computer-in-a-supercomputing-centre/
 * World Economic Forum (WEF) releases Quantum Computing Governance Principles Insight Report (2022)
   * https://www3.weforum.org/docs/WEF_Quantum_Computing_2022.pdf
+* Amazon Web Services (AWS) Key Management Service (KMS) and Certificate Manager (ACM) move to hybrid post-quantum TLS configurations using Key Encapsulation Mechanisms (KEMs) from the third round of the NIST PQC competition
+  * https://aws.amazon.com/about-aws/whats-new/2022/03/aws-kms-acm-support-latest-hybrid-post-quantum-tls-ciphers/
