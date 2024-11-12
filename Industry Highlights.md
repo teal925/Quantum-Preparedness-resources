@@ -2,6 +2,11 @@
 ### Please note, highlights are listed from Most to Least recent (i.e. new updates are at the top) and contain at a minimum 1 reference.
 
 ## 2024
+* IBM wins "Global Post-Quantum Cryptography Company of the Year Award" within the 2024 Best Practices Award scheme by consulting firm Frost & Sullivan
+  * https://www.ibm.com/downloads/documents/us-en/107a02e95348fea0
+  * https://www.ibm.com/services/quantum-safe
+  * https://www.frost.com/news/press-releases/frost-sullivan-applauds-ibm-for-its-market-leading-contributions-to-cryptography-and-standards/
+  * https://www.linkedin.com/posts/ibm-quantum_frost-sullivan-applauds-ibm-for-its-market-leading-activity-7260667490626605056-4aee (November, 2024)
 * AWS (Amazon Web Services) releases a security blog "Customer compliance and security during the post-quantum cryptographic migration"
   * https://aws.amazon.com/blogs/security/customer-compliance-and-security-during-the-post-quantum-cryptographic-migration/ (October, 2024)
 * Chinese researchers demonstrate efficient factorisation of a 22-bit RSA integer with a D-Wave Advantage quantum computer, showing potential to break RSA encryption. NB. Current RSA key length standards specify 2048 bits for security. (May, 2024)
