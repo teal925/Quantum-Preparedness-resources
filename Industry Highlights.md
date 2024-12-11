@@ -2,6 +2,13 @@
 ### Please note, highlights are listed from Most to Least recent (i.e. new updates are at the top) and contain at a minimum 1 reference.
 
 ## 2024
+* Google unveils their latest quantum chip, "Willow", reducing errors when scaling up to use more qubits, and performing a standard benchmark computation in <5 minutes which would take today's fastest classical supercomputers 10 septillion years (10^25). (December, 2024)
+  * https://blog.google/technology/research/google-willow-quantum-chip/
+  * https://www.nature.com/articles/d41586-024-04028-3
+* $13 million AUD investment made into Quantum Brilliance, to create Australia's first quantum diamond foundry (December, 2024)
+  * https://www.nrf.gov.au/news-and-media-releases/nrfc-announces-13-million-investment-quantum-brilliance-build-australias-first-quantum-diamond-foundry
+  * https://ia.acs.org.au/article/2024/govt-invests--13m-in-australian-firm-quantum-brilliance.html
+  * https://www.innovationaus.com/nrf-backs-quantum-brilliance-with-13m-investment/
 * IBM wins "Global Post-Quantum Cryptography Company of the Year Award" within the 2024 Best Practices Award scheme by consulting firm Frost & Sullivan
   * https://www.ibm.com/downloads/documents/us-en/107a02e95348fea0
   * https://www.ibm.com/services/quantum-safe
