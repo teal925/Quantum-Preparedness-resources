@@ -1,4 +1,4 @@
-## A collection of articles and interviews suitable for a lay audience without extensive background knowledge in cybersecurity or quantum computing. 
+## A collection of articles, interviews, and shortform documentaries suitable for a lay audience without extensive background knowledge in cybersecurity or quantum computing. 
 
 1. The Impact of Quantum Computing on Society https://www.digicert.com/blog/the-impact-of-quantum-computing-on-society
 2. The Australian Cyber Security Centre's "Planning for Post-Quantum Cryptography" guidance https://www.cyber.gov.au/resources-business-and-government/governance-and-user-education/governance/planning-post-quantum-cryptography
@@ -8,6 +8,7 @@
 6. Red Hot Cyber interviews Professor Andrea Morello (ARC Centre of Excellence for Quantum Computing, UNSW) https://www.redhotcyber.com/en/post/rhc-interviews-professor-andrea-morello/
 7. What is the "steal now, crack later" quantum computing threat? https://www.itpro.com/security/cyber-security/370298/what-is-steal-now-crack-later-quantum-computing
 8. Post-Quantum Government Initiatives by Country and Region https://www.gsma.com/newsroom/post-quantum-government-initiatives-by-country-and-region/
+9. The Race to Harness Quantum Computing's Mind-Bending Power | The Future with Hannah Fry https://www.youtube.com/watch?v=1_gJp2uAjO0
 
 ## Intermediate material:
 1. IBM's video "Understanding the NIST Standards and IBM's contributions to post-quantum cryptography" https://www.youtube.com/watch?v=HCOj9CSE050
