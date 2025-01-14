@@ -1,6 +1,9 @@
 # Industry Highlights
 ### Please note, highlights are listed from Most to Least recent (i.e. new updates are at the top) and contain at a minimum 1 reference.
 
+## 2025
+* World Economic Forum (WEF) releases their "Global Cybersecurity Outlook" Insight Report, naming quantum technologies - specifically quantum computing and encryption - as one of the top cybersecurity vulnerabilities which will significantly affect cybersecurity in the next 12 months
+  * https://reports.weforum.org/docs/WEF_Global_Cybersecurity_Outlook_2025.pdf
 ## 2024
 * Google unveils their latest quantum chip, "Willow", reducing errors when scaling up to use more qubits, and performing a standard benchmark computation in <5 minutes which would take today's fastest classical supercomputers 10 septillion years (10^25). (December, 2024)
   * https://blog.google/technology/research/google-willow-quantum-chip/
