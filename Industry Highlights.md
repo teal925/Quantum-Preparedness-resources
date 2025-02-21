@@ -2,6 +2,10 @@
 ### Please note, highlights are listed from Most to Least recent (i.e. new updates are at the top) and contain at a minimum 1 reference.
 
 ## 2025
+* Microsoft announces their Majorana 1 processor, claiming the title of world's first quantum chip powered by a topological core architecture (February, 2025)
+  * https://news.microsoft.com/source/features/ai/microsofts-majorana-1-chip-carves-new-path-for-quantum-computing/
+  * https://theconversation.com/microsoft-just-claimed-a-quantum-breakthrough-a-quantum-physicist-explains-what-it-means-250388
+  * https://www.nature.com/articles/s41586-024-08445-2#MOESM2
 * World Economic Forum (WEF) releases their "Global Cybersecurity Outlook" Insight Report, naming quantum technologies - specifically quantum computing and encryption - as one of the top cybersecurity vulnerabilities which will significantly affect cybersecurity in the next 12 months
   * https://reports.weforum.org/docs/WEF_Global_Cybersecurity_Outlook_2025.pdf
 ## 2024
