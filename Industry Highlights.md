@@ -2,6 +2,9 @@
 ### Please note, highlights are listed from Most to Least recent (i.e. new updates are at the top) and contain at a minimum 1 reference.
 
 ## 2025
+* Australian company Silicon Quantum Computing demonstrates a 3-qubit Grover's search algorithm without error correction with approximately 95% accuracy (February, 2025)
+  * https://www.nature.com/articles/s41565-024-01853-5
+  * https://sqc.com.au/2025/02/20/sqc-achieves-world-leading-accuracy-of-grovers-algorithm/ 
 * Microsoft announces their Majorana 1 processor, claiming the title of world's first quantum chip powered by a topological core architecture (February, 2025)
   * https://news.microsoft.com/source/features/ai/microsofts-majorana-1-chip-carves-new-path-for-quantum-computing/
   * https://theconversation.com/microsoft-just-claimed-a-quantum-breakthrough-a-quantum-physicist-explains-what-it-means-250388
