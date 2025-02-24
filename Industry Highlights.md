@@ -3,7 +3,8 @@
 
 ## 2025
 * Google anounces that their Cloud Key Management Service (KMS) now offers quantum-safe digital signatures for software-based keys, available in preview (February, 2025)
-  * https://cloud.google.com/blog/products/identity-security/announcing-quantum-safe-digital-signatures-in-cloud-kms 
+  * https://cloud.google.com/blog/products/identity-security/announcing-quantum-safe-digital-signatures-in-cloud-kms
+  * https://www.bleepingcomputer.com/news/security/google-cloud-introduces-quantum-safe-digital-signatures-in-kms/
 * Australian company Silicon Quantum Computing demonstrates a 3-qubit Grover's search algorithm without error correction with approximately 95% accuracy (February, 2025)
   * https://www.nature.com/articles/s41565-024-01853-5
   * https://sqc.com.au/2025/02/20/sqc-achieves-world-leading-accuracy-of-grovers-algorithm/ 
