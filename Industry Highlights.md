@@ -2,6 +2,9 @@
 ### Please note, highlights are listed from Most to Least recent (i.e. new updates are at the top) and contain at a minimum 1 reference.
 
 ## 2025
+* NIST anounces HQC "Hamming Quasi-Cyclic" as the next PQC algorithm, offering a backup solution to previously selected and standardised ML-KEM. (March, 2025)
+  * https://www.nist.gov/news-events/news/2025/03/nist-selects-hqc-fifth-algorithm-post-quantum-encryption
+  * https://nvlpubs.nist.gov/nistpubs/ir/2025/NIST.IR.8545.pdf 
 * Google anounces that their Cloud Key Management Service (KMS) now offers quantum-safe digital signatures for software-based keys, available in preview (February, 2025)
   * https://cloud.google.com/blog/products/identity-security/announcing-quantum-safe-digital-signatures-in-cloud-kms
   * https://www.bleepingcomputer.com/news/security/google-cloud-introduces-quantum-safe-digital-signatures-in-kms/
