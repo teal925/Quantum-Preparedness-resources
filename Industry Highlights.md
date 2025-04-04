@@ -2,6 +2,9 @@
 ### Please note, highlights are listed from Most to Least recent (i.e. new updates are at the top) and contain at a minimum 1 reference.
 
 ## 2025
+* Canberra-based quantum cyber firm QuintessenceLabs scores $15M AUD investment to accelerate key initiatives (April, 2025)
+  * https://ia.acs.org.au/article/2025/quantum-cyber-firm-scores--15m-nrf-investment.html
+  * https://www.quintessencelabs.com/news/quantum-outfit-quintessencelabs-lands-15m-nrf-boost
 * NIST anounces HQC "Hamming Quasi-Cyclic" as the next PQC algorithm, offering a backup solution to previously selected and standardised ML-KEM. (March, 2025)
   * https://www.nist.gov/news-events/news/2025/03/nist-selects-hqc-fifth-algorithm-post-quantum-encryption
   * https://nvlpubs.nist.gov/nistpubs/ir/2025/NIST.IR.8545.pdf
