@@ -2,6 +2,9 @@
 ### Please note, highlights are listed from Most to Least recent (i.e. new updates are at the top) and contain at a minimum 1 reference.
 
 ## 2025
+* Quantinuum's software quantum random number generator (QRNG) "Quantum Origin" receives NIST validation and becomes the first software QRNG to achieve this approval. (April, 2025)
+  * https://www.quantinuum.com/press-releases/quantinuums-quantum-origin-becomes-first-software-quantum-random-number-generator-to-achieve-nist-validation
+  * https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-90B.pdf (details on the NIST validation 800-90B Recommendation for the Entropy Sources Used for Random Bit Generation)
 * Canberra-based quantum cyber firm QuintessenceLabs scores $15M AUD investment to accelerate key initiatives (April, 2025)
   * https://ia.acs.org.au/article/2025/quantum-cyber-firm-scores--15m-nrf-investment.html
   * https://www.quintessencelabs.com/news/quantum-outfit-quintessencelabs-lands-15m-nrf-boost
