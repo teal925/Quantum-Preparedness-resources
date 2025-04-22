@@ -2,6 +2,11 @@
 ### Please note, highlights are listed from Most to Least recent (i.e. new updates are at the top) and contain at a minimum 1 reference.
 
 ## 2025
+* The US Department of Defense's DARPA (Defense Advanced Research Projects Agency) selects two Australian startups Diraq and Silicon Quantum Computing (SQC) to participate in Stage A of the Quantum Benchmarking Initiative (QBI) program (April 2025)
+  *  https://www.techrepublic.com/article/news-darpa-quantum-benchmarking-initiative-australian-startups/
+  *  https://diraq.com/newsdesk/diraq-leading-australian-uk-us-consortium-for-darpa-quantum-benchmarking-initiative
+  *  https://sqc.com.au/2025/04/04/silicon-quantum-computing-awarded-darpa-qbi-contract/
+  *  https://www.darpa.mil/research/programs/quantum-benchmarking-initiative
 * Quantinuum's software quantum random number generator (QRNG) "Quantum Origin" receives NIST validation and becomes the first software QRNG to achieve this approval. (April, 2025)
   * https://www.quantinuum.com/press-releases/quantinuums-quantum-origin-becomes-first-software-quantum-random-number-generator-to-achieve-nist-validation
   * https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-90B.pdf (details on the NIST validation 800-90B Recommendation for the Entropy Sources Used for Random Bit Generation)
