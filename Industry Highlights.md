@@ -2,6 +2,9 @@
 ### Please note, highlights are listed from Most to Least recent (i.e. new updates are at the top) and contain at a minimum 1 reference.
 
 ## 2025
+* Standards Australia releases research report "Quantum Technologies and Standardisation Globally and in Australia" (April, 2025)
+  * https://www.standards.org.au/documents/quantum-technologies-and-standardisation-globally-and-in-australia
+  * https://www.uts.edu.au/news/2025/04/uts-researchers-help-shape-australias-global-leadership-in-quantum-standardisation
 * The US Department of Defense's DARPA (Defense Advanced Research Projects Agency) selects two Australian startups Diraq and Silicon Quantum Computing (SQC) to participate in Stage A of the Quantum Benchmarking Initiative (QBI) program (April 2025)
   *  https://www.techrepublic.com/article/news-darpa-quantum-benchmarking-initiative-australian-startups/
   *  https://diraq.com/newsdesk/diraq-leading-australian-uk-us-consortium-for-darpa-quantum-benchmarking-initiative
