@@ -2,6 +2,10 @@
 ### Please note, highlights are listed from Most to Least recent (i.e. new updates are at the top) and contain at a minimum 1 reference.
 
 ## 2025
+* Diraq demonstrates violation of Bell's inequality in gate-defined quantum dots, a key performance indicator for qubit fidelity and quantum entanglement (April, 2025)
+  * https://diraq.com/newsdesk/bell-s-inequalities
+  * https://diraq.com/newsdesk/breakthrough-quantum-entanglement-between-silicon-qubits
+  * https://www.nature.com/articles/s41467-025-57987-0
 * Standards Australia releases research report "Quantum Technologies and Standardisation Globally and in Australia" (April, 2025)
   * https://www.standards.org.au/documents/quantum-technologies-and-standardisation-globally-and-in-australia
   * https://www.uts.edu.au/news/2025/04/uts-researchers-help-shape-australias-global-leadership-in-quantum-standardisation
