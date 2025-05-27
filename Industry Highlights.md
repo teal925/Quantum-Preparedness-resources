@@ -2,6 +2,9 @@
 ### Please note, highlights are listed from Most to Least recent (i.e. new updates are at the top) and contain at a minimum 1 reference.
 
 ## 2025
+* Post-Quantum Cryptographic capabilities made available to Microsoft's Windows Insiders and Linux (May, 2025)
+  * https://techcommunity.microsoft.com/blog/microsoft-security-blog/post-quantum-cryptography-comes-to-windows-insiders-and-linux/4413803
+  * https://thequantuminsider.com/2025/05/21/microsoft-brings-post-quantum-cryptography-to-windows-and-linux-in-early-access-rollout/
 * Diraq demonstrates violation of Bell's inequality in gate-defined quantum dots, a key performance indicator for qubit fidelity and quantum entanglement (April, 2025)
   * https://diraq.com/newsdesk/bell-s-inequalities
   * https://diraq.com/newsdesk/breakthrough-quantum-entanglement-between-silicon-qubits
