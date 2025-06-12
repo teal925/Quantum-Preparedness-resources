@@ -2,6 +2,9 @@
 ### Please note, highlights are listed from Most to Least recent (i.e. new updates are at the top) and contain at a minimum 1 reference.
 
 ## 2025
+* The Post-Quantum Cryptography Coalition (PQCC) releases their Migration Roadmap, associated with the MITRE corporation
+  * https://pqcc.org/wp-content/uploads/2025/05/PQC-Migration-Roadmap-PQCC-2.pdf
+  * https://pqcc.org/post-quantum-cryptography-migration-roadmap/ 
 * Post-Quantum Cryptographic capabilities made available to Microsoft's Windows Insiders and Linux (May, 2025)
   * https://techcommunity.microsoft.com/blog/microsoft-security-blog/post-quantum-cryptography-comes-to-windows-insiders-and-linux/4413803
   * https://thequantuminsider.com/2025/05/21/microsoft-brings-post-quantum-cryptography-to-windows-and-linux-in-early-access-rollout/
