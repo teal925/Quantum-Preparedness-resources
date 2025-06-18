@@ -2,7 +2,11 @@
 ### Please note, highlights are listed from Most to Least recent (i.e. new updates are at the top) and contain at a minimum 1 reference.
 
 ## 2025
-* The Post-Quantum Cryptography Coalition (PQCC) releases their Migration Roadmap, associated with the MITRE corporation
+* IBM reveals its path to build world's first Large Scale, Fault-Tolerant Quantum Computer "Starling" by 2029 at new Quantum Data Centre (June, 2025)
+  * https://newsroom.ibm.com/2025-06-10-IBM-Sets-the-Course-to-Build-Worlds-First-Large-Scale,-Fault-Tolerant-Quantum-Computer-at-New-IBM-Quantum-Data-Center
+  * https://www.ibm.com/quantum/technology#roadmap
+  * https://www.ibm.com/quantum/blog/large-scale-ftqc
+* The Post-Quantum Cryptography Coalition (PQCC) releases their Migration Roadmap, associated with the MITRE corporation (May, 2025)
   * https://pqcc.org/wp-content/uploads/2025/05/PQC-Migration-Roadmap-PQCC-2.pdf
   * https://pqcc.org/post-quantum-cryptography-migration-roadmap/ 
 * Post-Quantum Cryptographic capabilities made available to Microsoft's Windows Insiders and Linux (May, 2025)
