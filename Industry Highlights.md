@@ -2,6 +2,10 @@
 ### Please note, highlights are listed from Most to Least recent (i.e. new updates are at the top) and contain at a minimum 1 reference.
 
 ## 2025
+* UNSW and USyd partnership Emergence Quantum deliver breakthrough technology reducing the size of circuits required to run a silicon-based quantum computer (June, 2025)
+  * https://www.unsw.edu.au/newsroom/news/2025/06/unsw-engineers-crack-challenge-scaling-quantum-computers
+  * https://www.forbes.com.au/covers/entrepreneurs/how-two-sydney-startups-cracked-a-chilling-quantum-problem/
+  * https://www.nature.com/articles/s41586-025-09157-x
 * IBM reveals its path to build world's first Large Scale, Fault-Tolerant Quantum Computer "Starling" by 2029 at new Quantum Data Centre (June, 2025)
   * https://newsroom.ibm.com/2025-06-10-IBM-Sets-the-Course-to-Build-Worlds-First-Large-Scale,-Fault-Tolerant-Quantum-Computer-at-New-IBM-Quantum-Data-Center
   * https://www.ibm.com/quantum/technology#roadmap
