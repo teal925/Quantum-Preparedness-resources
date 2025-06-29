@@ -6,6 +6,9 @@
   * https://www.unsw.edu.au/newsroom/news/2025/06/unsw-engineers-crack-challenge-scaling-quantum-computers
   * https://www.forbes.com.au/covers/entrepreneurs/how-two-sydney-startups-cracked-a-chilling-quantum-problem/
   * https://www.nature.com/articles/s41586-025-09157-x
+* Microsoft advances quantum error correction with introduction of novel 4-Dimensional geometric codes. (June, 2025)
+  * https://azure.microsoft.com/en-us/blog/quantum/2025/06/19/microsoft-advances-quantum-error-correction-with-a-family-of-novel-four-dimensional-codes/
+  * https://arxiv.org/abs/2506.15130 
 * IBM reveals its path to build world's first Large Scale, Fault-Tolerant Quantum Computer "Starling" by 2029 at new Quantum Data Centre (June, 2025)
   * https://newsroom.ibm.com/2025-06-10-IBM-Sets-the-Course-to-Build-Worlds-First-Large-Scale,-Fault-Tolerant-Quantum-Computer-at-New-IBM-Quantum-Data-Center
   * https://www.ibm.com/quantum/technology#roadmap
