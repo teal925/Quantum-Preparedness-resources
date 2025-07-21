@@ -29,3 +29,4 @@
 
 ## 2025
 22. Investigatory firm McGrathNicol is engaged to undertake an independent review of Australian and Queensland Government's $940 million deal with US firm PsiQuantum to build utility-scale quantum computer in Brisbane, originally announced in May 2024. (January 2025) https://ia.acs.org.au/article/2025/psiquantum-deal-review-to-assess-lessons-learned.html
+23. The Royal Australian Navy tests quantum sensing technology using Q-CTRL's quantum dual gravimeter aboard aviation training vessel MV Sycamore, validating capability to operate through unavailability or untrustedness of GPS. (July 2025) https://www.navaltoday.com/2025/07/17/australian-navy-tests-q-ctrls-quantum-sensing-tech/, https://q-ctrl.com/blog/q-ctrls-new-maritime-quantum-navigation-solution-successfully-undergoes-first-defense-trials-at-sea
