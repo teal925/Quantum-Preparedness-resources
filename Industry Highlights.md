@@ -7,6 +7,9 @@
   * https://petrus-euroqci.eu/industrial-qkd-projects/
 
 ## 2025
+* Silicon Quantum Computing (SQC) achieves high-fidelity 11-qubit atom processor in silicon, a breakthrough for the modality. (December, 2025)
+  * https://www.sqc.com.au/news/sqc-establishes-leadership-in-silicon-modality
+  * https://www.nature.com/articles/s41586-025-09827-w
 * Quantum Brilliance opens world's first commercial quantum diamond foundry in Australia, to supply quantum-grade synthetic diamonds to customers globally, enabling compact, lightweight, room-temperature quantum computing and sensing (November, 2025)
   * https://quantumbrilliance.com/news/quantum-brilliance-opens-worlds-first-commercial-quantum-diamond-foundry-in-australia/
   * https://www.innovationaus.com/quantum-brilliance-opens-world-first-diamond-foundry/
