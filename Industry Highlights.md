@@ -2,6 +2,13 @@
 ### Please note, highlights are listed from Most to Least recent (i.e. new updates are at the top) and contain at a minimum 1 reference.
 
 ## 2025
+* Quantum Brilliance opens world's first commercial quantum diamond foundry in Australia, to supply quantum-grade synthetic diamonds to customers globally, enabling compact, lightweight, room-temperature quantum computing and sensing (November, 2025)
+  * https://quantumbrilliance.com/news/quantum-brilliance-opens-worlds-first-commercial-quantum-diamond-foundry-in-australia/
+  * https://www.innovationaus.com/quantum-brilliance-opens-world-first-diamond-foundry/
+  * https://www.premier.vic.gov.au/world-first-lab-grown-diamonds-transform-tech
+* Q-CTRL integrates Fire Opal with RIKEN's IBM Quantum System Tow to build a quantum-HPC integrated platform and explore quantum-HPC hybrid applications to run on the platform and expand computational domains (November 2025)
+  *  https://q-ctrl.com/blog/q-ctrl-integrates-fire-opal-with-rikens-ibm-quantum-system-two-to-unlock-maximum-performance-for-hybrid-quantum-classical-computing
+  *  https://www.riken.jp/en/news_pubs/news/2025/20251114_2/index.html
 * UNSW and USyd partnership Emergence Quantum deliver breakthrough technology reducing the size of circuits required to run a silicon-based quantum computer (June, 2025)
   * https://www.unsw.edu.au/newsroom/news/2025/06/unsw-engineers-crack-challenge-scaling-quantum-computers
   * https://www.forbes.com.au/covers/entrepreneurs/how-two-sydney-startups-cracked-a-chilling-quantum-problem/
