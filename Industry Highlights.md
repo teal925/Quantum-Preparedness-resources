@@ -1,6 +1,11 @@
 # Industry Highlights
 ### Please note, highlights are listed from Most to Least recent (i.e. new updates are at the top) and contain at a minimum 1 reference.
 
+## 2026
+* Dutch quantum connectivity company Q*Bird and Spain's Universidad Politecnica de Madrid (UPM) launch Spain's first multi-node Measurement-Device-Independent Quantum Key Distributiom (MDI-QKD) network (January, 2026)
+  * https://q-bird.com/press/leading-europes-quantum-frontier-upm-and-qbird-launch-spains-first-multi-node-mdi-qkd-network/
+  * https://petrus-euroqci.eu/industrial-qkd-projects/
+
 ## 2025
 * Quantum Brilliance opens world's first commercial quantum diamond foundry in Australia, to supply quantum-grade synthetic diamonds to customers globally, enabling compact, lightweight, room-temperature quantum computing and sensing (November, 2025)
   * https://quantumbrilliance.com/news/quantum-brilliance-opens-worlds-first-commercial-quantum-diamond-foundry-in-australia/
