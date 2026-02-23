@@ -1,14 +1,15 @@
 ## A collection of articles, interviews, and shortform documentaries suitable for a lay audience without extensive background knowledge in cybersecurity or quantum computing. 
 
-1. The Impact of Quantum Computing on Society https://www.digicert.com/blog/the-impact-of-quantum-computing-on-society
-2. The Australian Cyber Security Centre's "Planning for Post-Quantum Cryptography" guidance https://www.cyber.gov.au/resources-business-and-government/governance-and-user-education/governance/planning-post-quantum-cryptography
-3. WEF's "Why it's time to get your board to take the quantum threat seriously" https://www.weforum.org/agenda/2023/04/how-to-get-your-board-to-take-the-quantum-threat-seriously/
-4. KPMG's article "What is the cyber security risk from Quantum Computing?" https://kpmg.com/au/en/home/insights/2024/04/cyber-security-risk-from-quantum-computing.html
-5. IBM's "Security in the Quantum Computing Era" https://www.ibm.com/downloads/cas/EZEGKEB5
-6. Red Hot Cyber interviews Professor Andrea Morello (ARC Centre of Excellence for Quantum Computing, UNSW) https://www.redhotcyber.com/en/post/rhc-interviews-professor-andrea-morello/
-7. What is the "steal now, crack later" quantum computing threat? https://www.itpro.com/security/cyber-security/370298/what-is-steal-now-crack-later-quantum-computing
-8. Post-Quantum Government Initiatives by Country and Region https://www.gsma.com/newsroom/post-quantum-government-initiatives-by-country-and-region/
-9. The Race to Harness Quantum Computing's Mind-Bending Power | The Future with Hannah Fry https://www.youtube.com/watch?v=1_gJp2uAjO0
+1. Top 20 Quantum Computing Terms You Need to Know (from Quantum Zeitgeist) https://quantumzeitgeist.com/top-20-quantum-computing-terms-you-need-to-know/
+2. The Impact of Quantum Computing on Society https://www.digicert.com/blog/the-impact-of-quantum-computing-on-society
+3. The Australian Cyber Security Centre's "Planning for Post-Quantum Cryptography" guidance https://www.cyber.gov.au/resources-business-and-government/governance-and-user-education/governance/planning-post-quantum-cryptography
+4. WEF's "Why it's time to get your board to take the quantum threat seriously" https://www.weforum.org/agenda/2023/04/how-to-get-your-board-to-take-the-quantum-threat-seriously/
+5. KPMG's article "What is the cyber security risk from Quantum Computing?" https://kpmg.com/au/en/home/insights/2024/04/cyber-security-risk-from-quantum-computing.html
+6. IBM's "Security in the Quantum Computing Era" https://www.ibm.com/downloads/cas/EZEGKEB5
+7. Red Hot Cyber interviews Professor Andrea Morello (ARC Centre of Excellence for Quantum Computing, UNSW) https://www.redhotcyber.com/en/post/rhc-interviews-professor-andrea-morello/
+8. What is the "steal now, crack later" quantum computing threat? https://www.itpro.com/security/cyber-security/370298/what-is-steal-now-crack-later-quantum-computing
+9. Post-Quantum Government Initiatives by Country and Region https://www.gsma.com/newsroom/post-quantum-government-initiatives-by-country-and-region/
+10. The Race to Harness Quantum Computing's Mind-Bending Power | The Future with Hannah Fry https://www.youtube.com/watch?v=1_gJp2uAjO0
 
 ## Intermediate material:
 1. IBM's video "Understanding the NIST Standards and IBM's contributions to post-quantum cryptography" https://www.youtube.com/watch?v=HCOj9CSE050
