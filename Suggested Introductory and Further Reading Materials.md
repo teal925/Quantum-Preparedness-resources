@@ -16,6 +16,7 @@
 2. Paul Barker's CIO article "It's time for CIOs to think about post quantum cryptography" https://www.cio.com/article/3526658/its-time-for-cios-to-think-about-post-quantum-cryptography.html
 3. Red Hat's blog "Post-Quantum cryptography: An introduction" https://www.redhat.com/en/blog/post-quantum-cryptography-introduction
 4. The Australian Information Security Association's secureGOV 2025 article by Tara Lie 'Preparing for the quantum era' https://securegov.partica.online/securegov/vol-3/flipbook/6/
+5. 3Blue1Brown's video "But what is quantum computing? (Grover's Algorithm)" https://quantumzeitgeist.com/top-20-quantum-computing-terms-you-need-to-know/
 
 ## For the more technical reader:
 1. Improving tomorrow’s security by decoding the quantum computing threat https://assets.ey.com/content/dam/ey-sites/ey-com/en_au/topics/cybersecurity/ey-quantum-threat-whitepaper-by-jpmc-and-ey.pdf
