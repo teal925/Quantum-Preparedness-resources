@@ -2,6 +2,9 @@
 ### Please note, highlights are listed from Most to Least recent (i.e. new updates are at the top) and contain at a minimum 1 reference.
 
 ## 2026
+* The Association for Computing Machinery (ACM) awards the 2025 Turing Award to Charles H. Bennett and Gilles Brassard, recognising them for their essential role in establishing foundations of quantum information science and transforming secure communication an computing. Bennett and Brassard introduced the first practical protocol for quantum cryptography - [BB84](https://en.wikipedia.org/wiki/BB84) - in 1984. (March, 2026)
+  * https://awards.acm.org/about/2025-turing
+  * https://physicsworld.com/a/quantum-physicists-charles-bennett-and-gilles-brassard-win-1m-turing-award/ 
 * Dutch quantum connectivity company Q*Bird and Spain's Universidad Politecnica de Madrid (UPM) launch Spain's first multi-node Measurement-Device-Independent Quantum Key Distributiom (MDI-QKD) network (January, 2026)
   * https://q-bird.com/press/leading-europes-quantum-frontier-upm-and-qbird-launch-spains-first-multi-node-mdi-qkd-network/
   * https://petrus-euroqci.eu/industrial-qkd-projects/
