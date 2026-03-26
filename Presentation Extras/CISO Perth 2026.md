@@ -1,6 +1,6 @@
 ## Preparing for the Quantum Era
 - AISA secureGOV Vol 3 (2025) Spotlight article "Preparing for the Quantum Era" https://securegov.partica.online/securegov/vol-3/flipbook/6/
-
+- MDR Quantum resources on quantum-related security and concepts https://mdrquantum.substack.com/ 
 ## Harvest-Now, Decrypt Later
 - Basic information on HNDL attacks, not confined to quantum https://en.wikipedia.org/wiki/Harvest_now,_decrypt_later
 
