@@ -12,11 +12,12 @@
 10. The Race to Harness Quantum Computing's Mind-Bending Power | The Future with Hannah Fry https://www.youtube.com/watch?v=1_gJp2uAjO0
 
 ## Intermediate material:
-1. IBM's video "Understanding the NIST Standards and IBM's contributions to post-quantum cryptography" https://www.youtube.com/watch?v=HCOj9CSE050
-2. Paul Barker's CIO article "It's time for CIOs to think about post quantum cryptography" https://www.cio.com/article/3526658/its-time-for-cios-to-think-about-post-quantum-cryptography.html
-3. Red Hat's blog "Post-Quantum cryptography: An introduction" https://www.redhat.com/en/blog/post-quantum-cryptography-introduction
-4. The Australian Information Security Association's secureGOV 2025 article by Tara Lie 'Preparing for the quantum era' https://securegov.partica.online/securegov/vol-3/flipbook/6/
-5. 3Blue1Brown's video "But what is quantum computing? (Grover's Algorithm)" https://quantumzeitgeist.com/top-20-quantum-computing-terms-you-need-to-know/
+1. Craig Costello's 2019 TED Talk "In the war for information, will quantum computers defeat cryptographers?" https://youtu.be/I3BJVaioX_k?si=7XM_Bd5tcRksvNnZ
+2. IBM's video "Understanding the NIST Standards and IBM's contributions to post-quantum cryptography" https://www.youtube.com/watch?v=HCOj9CSE050
+3. Paul Barker's CIO article "It's time for CIOs to think about post quantum cryptography" https://www.cio.com/article/3526658/its-time-for-cios-to-think-about-post-quantum-cryptography.html
+4. Red Hat's blog "Post-Quantum cryptography: An introduction" https://www.redhat.com/en/blog/post-quantum-cryptography-introduction
+5. The Australian Information Security Association's secureGOV 2025 article by Tara Lie 'Preparing for the quantum era' https://securegov.partica.online/securegov/vol-3/flipbook/6/
+6. 3Blue1Brown's video "But what is quantum computing? (Grover's Algorithm)" https://quantumzeitgeist.com/top-20-quantum-computing-terms-you-need-to-know/
 
 ## For the more technical reader:
 1. Improving tomorrow’s security by decoding the quantum computing threat https://assets.ey.com/content/dam/ey-sites/ey-com/en_au/topics/cybersecurity/ey-quantum-threat-whitepaper-by-jpmc-and-ey.pdf
