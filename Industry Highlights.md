@@ -2,6 +2,10 @@
 ### Please note, highlights are listed from Most to Least recent (i.e. new updates are at the top) and contain at a minimum 1 reference.
 
 ## 2026
+* Google opens applications for their Willow quantum processor Early Access Program, for researchers who propose compelling experiments to run on the quantum hardware which is not yet accessible to the public (March, 2026)
+  * https://quantumai.google/willowearlyaccess
+  * https://quantumai.google/static/site-assets/downloads/willow-early-access-program-instructions.pdf
+  * https://thequantuminsider.com/2026/03/28/google-opens-early-access-to-willow-quantum-processor-invites-experimental-proposals/  
 * The Association for Computing Machinery (ACM) awards the 2025 Turing Award to Charles H. Bennett and Gilles Brassard, recognising them for their essential role in establishing foundations of quantum information science and transforming secure communication an computing. Bennett and Brassard introduced the first practical protocol for quantum cryptography - [BB84](https://en.wikipedia.org/wiki/BB84) - in 1984. (March, 2026)
   * https://awards.acm.org/about/2025-turing
   * https://physicsworld.com/a/quantum-physicists-charles-bennett-and-gilles-brassard-win-1m-turing-award/ 
