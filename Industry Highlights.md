@@ -2,6 +2,10 @@
 ### Please note, highlights are listed from Most to Least recent (i.e. new updates are at the top) and contain at a minimum 1 reference.
 
 ## 2026
+* Google and Cloudflare push their post-quantum cryptography transition deadlines forward to 2029 (March & April, 2026)
+  * https://ia.acs.org.au/article/2026/google--cloudflare-want-post-quantum-cryptography-by-2029.html
+  * https://blog.cloudflare.com/post-quantum-roadmap/
+  * https://blog.google/innovation-and-ai/technology/safety-security/cryptography-migration-timeline/
 * Google opens applications for their Willow quantum processor Early Access Program, for researchers who propose compelling experiments to run on the quantum hardware which is not yet accessible to the public (March, 2026)
   * https://quantumai.google/willowearlyaccess
   * https://quantumai.google/static/site-assets/downloads/willow-early-access-program-instructions.pdf
