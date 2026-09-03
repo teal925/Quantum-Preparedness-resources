@@ -2,6 +2,12 @@
 ### Please note, highlights are listed from Most to Least recent (i.e. new updates are at the top) and contain at a minimum 1 reference.
 
 ## 2026
+* Diraq announces plans to install a modular 8-qubit silicon spin quantum qubit in a Sydney-based Equinix data centre, representing the first quantum computer in a shared commercial data centre. (September, 2026)
+  *  https://www.diraq.com/newsdesk/diraq-to-deploy-a-quantum-computer-inside-an-australian-equinix-data-centernbsp
+  *  https://ia.acs.org.au/article/2026/sydney-data-centre-gets-world-first-quantum-computer.html
+* Microsoft accelerates their PQC transition timeline from end of 2033 to transitioning prodcuts and services to PQC by 2029. (June, 2026)
+  * https://www.microsoft.com/en-us/security/blog/2026/06/30/microsoft-advances-quantum-safe-security-as-the-risk-timeline-shifts/
+  * https://postquantum.com/security-pqc/microsoft-pqc-2029/
 * Google and Cloudflare push their post-quantum cryptography transition deadlines forward to 2029 (March & April, 2026)
   * https://ia.acs.org.au/article/2026/google--cloudflare-want-post-quantum-cryptography-by-2029.html
   * https://blog.cloudflare.com/post-quantum-roadmap/
