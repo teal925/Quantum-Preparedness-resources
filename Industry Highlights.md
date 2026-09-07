@@ -2,6 +2,9 @@
 ### Please note, highlights are listed from Most to Least recent (i.e. new updates are at the top) and contain at a minimum 1 reference.
 
 ## 2026
+* The G7 Cybersecurity Working Group publishes Preparing for the Post-Quantum Era: A Call to Action for highlighting the high-level security threats from a cryptographically-relevant quantum computers and to reaffirm their planned initiatives (September, 2026_
+  * https://www.cisa.gov/resources-tools/resources/preparing-post-quantum-era-call-action
+  * https://cyber.gouv.fr/en/publications/jointly-led-international-publications/preparing-for-the-post-quantum-era-a-call-to-action/
 * Diraq announces plans to install a modular 8-qubit silicon spin quantum qubit in a Sydney-based Equinix data centre, representing the first quantum computer in a shared commercial data centre. (September, 2026)
   *  https://www.diraq.com/newsdesk/diraq-to-deploy-a-quantum-computer-inside-an-australian-equinix-data-centernbsp
   *  https://ia.acs.org.au/article/2026/sydney-data-centre-gets-world-first-quantum-computer.html
