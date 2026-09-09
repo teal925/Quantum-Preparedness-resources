@@ -8,6 +8,11 @@
 * Diraq announces plans to install a modular 8-qubit silicon spin quantum qubit in a Sydney-based Equinix data centre, representing the first quantum computer in a shared commercial data centre. (September, 2026)
   *  https://www.diraq.com/newsdesk/diraq-to-deploy-a-quantum-computer-inside-an-australian-equinix-data-centernbsp
   *  https://ia.acs.org.au/article/2026/sydney-data-centre-gets-world-first-quantum-computer.html
+* ISO standardises 3 PQC algorithms in the ISO/IEC 18033-2 standard for asymmetric ciphers - ML-KEM, FrodoKEM, and Classic McEliece. (July, 2026)
+  * https://www.iso.org/standard/86890.html
+  * https://thequantuminsider.com/2026/07/15/classic-mceliece-iso-standard-post-quantum-cryptography/
+  * https://frodokem.org/
+  * https://csrc.nist.gov/pubs/fips/203/final
 * Microsoft accelerates their PQC transition timeline from end of 2033 to transitioning prodcuts and services to PQC by 2029. (June, 2026)
   * https://www.microsoft.com/en-us/security/blog/2026/06/30/microsoft-advances-quantum-safe-security-as-the-risk-timeline-shifts/
   * https://postquantum.com/security-pqc/microsoft-pqc-2029/
