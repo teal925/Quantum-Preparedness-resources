@@ -2,6 +2,11 @@
 ### Please note, highlights are listed from Most to Least recent (i.e. new updates are at the top) and contain at a minimum 1 reference.
 
 ## 2026
+* Cleveland Clinic, RIKEN, and IBM are announced as finalists for the 2026 Association for Computing Machinery (ACM) Gordon Bell prize. The prize recognises outstanding performance in high-performance computing, and the research team across the 3 organisations demonstrated a 12,635-atom protein simulation which is the largest known quantum-enabled simulation of biologically relevant molecules. Two 156-qubit processors using up to 94 qubits were used. (September, 2026)
+  * https://www.ibm.com/quantum/blog/gordon-bell-finalists-2026
+  * https://awards.acm.org/bell
+  * https://www.ibm.com/quantum/blog/cleveland-clinic-riken-chemistry
+  * https://arxiv.org/abs/2605.01138 
 * The G7 Cybersecurity Working Group publishes Preparing for the Post-Quantum Era: A Call to Action for highlighting the high-level security threats from a cryptographically-relevant quantum computers and to reaffirm their planned initiatives (September, 2026)
   * https://www.cisa.gov/resources-tools/resources/preparing-post-quantum-era-call-action
   * https://cyber.gouv.fr/en/publications/jointly-led-international-publications/preparing-for-the-post-quantum-era-a-call-to-action/
