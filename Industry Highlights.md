@@ -2,6 +2,10 @@
 ### Please note, highlights are listed from Most to Least recent (i.e. new updates are at the top) and contain at a minimum 1 reference.
 
 ## 2026
+* IonQ (trapped ion quantum computing company) published full paper with blueprint for breaking 256-bit elliptic curve signatures, expanding on their Walking Cat architecture originally published in April. The conclusion is that a 20,000-physical-qubit IonQ quantum computer is expected to break secp256k1 (the 256-bit elliptic curve used by blockchain technology such as Bitcoin) in <26 days (September, 2026)
+  * https://www.ionq.com/resources/ionqs-fully-compiled-end-to-end-resource-estimate-for-breaking-256-bit-elliptic-curve-signatures (September, 2026)
+  * https://www.ionq.com/news/ionq-publishes-worlds-first-fully-compiled-end-to-end-blueprint-for-breaking-256-bit-elliptic-curve-signatures (September, 2026)
+  * https://arxiv.org/abs/2604.19481 (April, 2026) 
 * Cleveland Clinic, RIKEN, and IBM are announced as finalists for the 2026 Association for Computing Machinery (ACM) Gordon Bell prize. The prize recognises outstanding performance in high-performance computing, and the research team across the 3 organisations demonstrated a 12,635-atom protein simulation which is the largest known quantum-enabled simulation of biologically relevant molecules. Two 156-qubit processors using up to 94 qubits were used. (September, 2026)
   * https://www.ibm.com/quantum/blog/gordon-bell-finalists-2026
   * https://awards.acm.org/bell
