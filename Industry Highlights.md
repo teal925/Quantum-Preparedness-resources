@@ -2,6 +2,9 @@
 ### Please note, highlights are listed from Most to Least recent (i.e. new updates are at the top) and contain at a minimum 1 reference.
 
 ## 2026
+* The French Ministry of Armed Forces announces Project Aliquante, to build a sovereign quantum computer software platform. Over 5 years, the project will develop tool to program quantum machines, emulate different qubit technologies, and split workloads between classical HPC systems and quantum processors. NB. the following references are in French (September, 2026)
+  * https://www.defense.gouv.fr/aid/actualites/calcul-quantique-dga-laid-renforcent-leur-action-volet-logiciel-lordinateur-quantique
+  * https://www.larevuedudigital.com/larmee-francaise-prepare-les-logiciels-de-ses-futurs-ordinateurs-quantiques/
 * Microsoft and the University of Maryland open new quantum research centre, within which topological qubits built on Microsoft's Majorana 2 chip are being provided for independent testing and validation by DARPA (Defense Advanced Research Projects Agency). (September, 2026)
   * https://quantum.microsoft.com/en-us/insights/blogs/microsoft-quantum-research-center-maryland
   * https://blogs.microsoft.com/on-the-issues/2025/09/17/our-new-collaboration-with-maryland-will-accelerate-scalable-quantum-computing/
