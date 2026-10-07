@@ -1,7 +1,11 @@
-# Industry Highlights
+# Industry, Research, and International Government (not Australian governments) Highlights
 ### Please note, highlights are listed from Most to Least recent (i.e. new updates are at the top) and contain at a minimum 1 reference.
 
 ## 2026
+* PQC cryptosystem Classic McEliece under increased scrutiny following pre-print cryptanalysis research available on Cryptology ePrint Archive progresses structural attacks. ISO standardised Classic McEliece as approved PQC in July 2026. Germany's BSI published a note on recent developments.
+  * https://www.bsi.bund.de/SharedDocs/Downloads/EN/BSI/Crypto/Notes_Classic_McEliece.pdf?__blob=publicationFile&v=2
+  * https://eprint.iacr.org/2026/1630
+  * https://eprint.iacr.org/2026/1984
 * The French Ministry of Armed Forces announces Project Aliquante, to build a sovereign quantum computer software platform. Over 5 years, the project will develop tool to program quantum machines, emulate different qubit technologies, and split workloads between classical HPC systems and quantum processors. NB. the following references are in French (September, 2026)
   * https://www.defense.gouv.fr/aid/actualites/calcul-quantique-dga-laid-renforcent-leur-action-volet-logiciel-lordinateur-quantique
   * https://www.larevuedudigital.com/larmee-francaise-prepare-les-logiciels-de-ses-futurs-ordinateurs-quantiques/
