@@ -2,6 +2,9 @@
 ### Please note, highlights are listed from Most to Least recent (i.e. new updates are at the top) and contain at a minimum 1 reference.
 
 ## 2026
+* The Dutch Government publishes their Cabinet-apprpoved Government-wide Quantum Strategy, expanding on the role of central government in quantum technology capability and safeguarding national security including cryptography. (October, 2026)
+  *  https://open.overheid.nl/details/e5ed8acc-e60c-49b0-bda9-fc32fd24b457
+  *  https://thequantuminsider.com/2026/10/06/netherlandss-quantum-strategy-sets-2035-goals-links-industry-growth-to-cybersecurity/
 * PQC cryptosystem Classic McEliece under increased scrutiny following pre-print cryptanalysis research available on Cryptology ePrint Archive progresses structural attacks. ISO standardised Classic McEliece as approved PQC in July 2026. Germany's BSI published a note on recent developments.
   * https://www.bsi.bund.de/SharedDocs/Downloads/EN/BSI/Crypto/Notes_Classic_McEliece.pdf?__blob=publicationFile&v=2
   * https://eprint.iacr.org/2026/1630
